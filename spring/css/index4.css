@@ -1,0 +1,162 @@
+@charset "utf-8";
+
+iframe {
+    margin: 0 auto;
+
+}
+
+
+body {
+    background-image: url(../index4/back_img/haikei.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#about {
+    background-image: url(/spring/index4/back_img/IMG_7941.JPG);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+.back {
+    clear: both;
+    background-color: rgba(255, 255, 255, 0.9);
+    margin-top: 400px;
+    padding: 35px 0;
+    height: 2330px;
+    display: flex;
+}
+
+.abc {
+    position: absolute;
+    top: 700px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 300px;
+    z-index: 10;
+}
+
+.abc img {
+    width: 100%;
+}
+
+.A {
+    position: absolute;
+    top: 880px; /* Adjust vertically */
+    left: 50px; /* Adjust horizontally */
+    width: 550px;
+    height: 100px;
+}
+
+.AA {
+    position: absolute;
+    top: 900px;
+    left: 55%;
+    transform: translateX(-50%);
+    width: 300px;
+}
+
+.B {
+    position: absolute;
+    top: 1050px; /* Adjust vertically */
+    right: 50px; /* Adjust horizontally */
+    width: 550px;
+    height: 100px;
+}
+
+.BB {
+    position: absolute;
+    top: 1260px;
+    left:52%;
+    transform: translateX(-50%);
+    width: 300px;
+}
+
+.C {
+    position: absolute;
+    top: 1360px; /* Adjust vertically */
+    left: 50px; /* Adjust horizontally */
+    width: 550px;
+    height: 100px;
+}
+
+.CC {
+    position: absolute;
+    top: 1560px;
+    left: 54%;
+    transform: translateX(-50%);
+    width: 300px;
+}
+
+.D {
+    position: absolute;
+    top: 1650px; /* Adjust vertically */
+    right: 45px; /* Adjust horizontally */
+    width: 550px;
+    height: 100px;
+}
+
+.DD {
+    position: absolute;
+    top: 1850px;
+    left: 53%;
+    transform: translateX(-50%);
+    width: 300px;
+}
+
+.E {
+    position: absolute;
+    top: 1970px; /* Adjust vertically */
+    left: 45px; /* Adjust horizontally */
+    width: 550px;
+    height: 100px;
+}
+
+.EE {
+    position: absolute;
+    top: 2200px;
+    left: 54%;
+    transform: translateX(-50%);
+    width: 300px;
+}
+
+.F {
+    position: absolute;
+    top: 2270px; /* Adjust vertically */
+    right: 45px; /* Adjust horizontally */
+    width: 550px;
+    height: 100px;
+}
+
+.FF {
+    position: absolute;
+    top: 2470px;
+    left: 47%;
+    transform: translateX(-50%);
+    width: 300px;
+}
+
+.G {
+    position: absolute;
+    top: 2580px; /* Adjust vertically */
+    left: 45px; /* Adjust horizontally */
+    width: 550px;
+    height: 100px;
+}
+
+.GG {
+    position: absolute;
+    top: 2730px;
+    left: 54%;
+    transform: translateX(-50%);
+    width: 300px;
+}
+
+
+
+
+
+
