@@ -30,8 +30,8 @@ body {
 
 .abc {
     position: absolute;
-    top: 70px; /* Adjust vertically */
-    right: 380px; /* Adjust horizontally */
+    top: 70px;
+    right: 380px; 
     width: 550px;
     height: 100px;
 }
@@ -39,18 +39,18 @@ body {
 
 .B {
     position: absolute;
-    top: 705px; /* Adjust vertically */
-    left: 5px; /* Adjust horizontally */
-    width: 550px;
+    top: 705px; 
+    left: 8px; 
+    width: 400px;
     height: 100px;
 }
 
 .BB {
     position: absolute;
-    top: 230px;
-    left:12%;
+    top: 200px;
+    left:16%;
     transform: translateX(-50%);
-    width: 300px;
+    width: 400px;
 }
 
 .BBB {
@@ -62,26 +62,26 @@ body {
 }
 
 .you {
-    position: relative; /* 'absolute'や'fixed'に変更可能です、必要に応じて */
-    top: 130px;          /* 上下位置を調整 */
-    left: 5px;         /* 左右位置を調整 */
-    margin: 0 auto;     /* 横方向に中央揃え（必要に応じて） */
-    width: 560px;       /* 要素の幅を設定 */
-    height: 315px;      /* 要素の高さを設定 */
+    position: relative; 
+    top: 130px;
+    left: 5px;       
+    margin: 0 auto;     
+    width: 560px;   
+    height: 315px;  
 }
 
 .BBBB {
     position: absolute;
-    top: 228px;
-    right: 30%;
+    top: 253px;
+    right: 23%;
     transform: translateX(-50%);
-    width: 250px;
+    width: 300px;
 }
 
 .BBBBB {
     position: absolute;
-    top: 283px;
-    right: 1px;
+    top: 285px;
+    left: 82%;
     transform: translateX(-50%);
     width: 300px;
 }
@@ -95,15 +95,15 @@ header{
 .BBBBBBB{
     position: absolute;
     top: 400px;
-    left: 68%;
+    left: 67%;
     transform: translateX(-50%);
-    width: 300px;
+    width: 400px;
 }
 
 .BBBBBBBBB {
     position: absolute;
-    top: 740px;
-    right: 21%;
+    top: 700px;
+    left: 46%;
     transform: translateX(-50%);
     width: 350px;
 }

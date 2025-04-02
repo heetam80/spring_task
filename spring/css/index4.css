@@ -45,8 +45,8 @@ body {
 
 .A {
     position: absolute;
-    top: 880px; /* Adjust vertically */
-    left: 50px; /* Adjust horizontally */
+    top: 880px; 
+    left: 50px; 
     width: 550px;
     height: 100px;
 }
@@ -61,8 +61,8 @@ body {
 
 .B {
     position: absolute;
-    top: 1050px; /* Adjust vertically */
-    right: 50px; /* Adjust horizontally */
+    top: 1050px;
+    right: 50px; 
     width: 550px;
     height: 100px;
 }
@@ -77,8 +77,8 @@ body {
 
 .C {
     position: absolute;
-    top: 1360px; /* Adjust vertically */
-    left: 50px; /* Adjust horizontally */
+    top: 1360px; 
+    left: 50px; 
     width: 550px;
     height: 100px;
 }
@@ -93,8 +93,8 @@ body {
 
 .D {
     position: absolute;
-    top: 1650px; /* Adjust vertically */
-    right: 45px; /* Adjust horizontally */
+    top: 1650px; 
+    right: 45px;
     width: 550px;
     height: 100px;
 }
@@ -109,8 +109,8 @@ body {
 
 .E {
     position: absolute;
-    top: 1970px; /* Adjust vertically */
-    left: 45px; /* Adjust horizontally */
+    top: 1970px; 
+    left: 45px;
     width: 550px;
     height: 100px;
 }
@@ -125,8 +125,8 @@ body {
 
 .F {
     position: absolute;
-    top: 2270px; /* Adjust vertically */
-    right: 45px; /* Adjust horizontally */
+    top: 2270px; 
+    right: 45px; 
     width: 550px;
     height: 100px;
 }
@@ -141,8 +141,8 @@ body {
 
 .G {
     position: absolute;
-    top: 2580px; /* Adjust vertically */
-    left: 45px; /* Adjust horizontally */
+    top: 2580px; 
+    left: 45px; 
     width: 550px;
     height: 100px;
 }
