@@ -1,0 +1,142 @@
+@charset "utf-8";
+
+iframe {
+    margin: 0 auto;
+
+}
+
+
+body {
+    background-image: url(../css/img/baburin.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.youtube {
+    position: absolute;
+    top: 1180px; 
+    left: 110px;
+    width: 400px;
+    height: 100px;
+}
+
+.youtube1 {
+    position: absolute;
+    top: 1180px; 
+    left: 540px; 
+    width: 400px;
+    height: 100px;
+}
+
+.youtube2 {
+    position: absolute;
+    top: 1450px; 
+    left: 110px; 
+    width: 400px;
+    height: 100px;
+}
+
+.youtube3 {
+    position: absolute;
+    top: 1450px; 
+    left: 540px; 
+    width: 400px;
+    height: 100px;
+}
+
+#about {
+    background-image: url(../css/img/baburin.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+.back {
+    clear: both;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 400px;
+    padding: 35px 0;
+    height: 1150px;
+    display: flex;
+}
+
+.sidebar {
+    width: 150px;
+    margin: 0 0 50px;
+    font-family: "bitter", serif;
+}
+
+.contents {
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+
+}
+
+.contents section {
+    margin-bottom: 30px;
+}
+
+.sidebar li {
+    list-style-position: inside;
+}
+
+.sidebar ul a {
+    color: #333333;
+}
+
+
+
+
+.abc {
+    position: absolute;
+    top: 480px;
+    left: 88%;
+    transform: translateX(-50%);
+    width: 300px;
+    z-index: 10;
+}
+
+.abc img {
+    width: 100%;
+}
+
+
+.contents {
+    display: flex;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.contents main {
+    flex: 3;
+    margin-right: 20px;
+}
+
+.contents aside {
+    flex: 1;
+    padding: 10px;
+}
+
+.tameline1 {
+    margin-top: 25px;
+}
+
+.youtube, .youtube1, .youtube2, .youtube3 {
+    position: absolute;
+    width: 400px; 
+    height: 300px;
+    overflow: hidden; 
+}
+
+.youtube img,
+.youtube1 img,
+.youtube2 img,
+.youtube3 img {
+    width: 100%;
+    height: 100%; 
+    object-fit: contain; 
+}

@@ -1,0 +1,112 @@
+@charset "utf-8";
+
+iframe {
+    margin: 0 auto;
+
+}
+
+
+body {
+    background-image: url(../index4/back_img/haikei.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#about {
+    background-image: url(../index4_all/藍の華img/心を叫べ_back.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+.back {
+    clear: both;
+    background-color: rgba(255, 255, 255, 0.8);
+    height: 830px;
+    display: flex;
+}
+
+.abc {
+    position: absolute;
+    top: 70px; 
+    right: 380px; 
+    width: 550px;
+    height: 100px;
+}
+
+
+.B {
+    position: absolute;
+    top: 705px;
+    left: 5px; 
+    width: 550px;
+    height: 100px;
+}
+
+.BB {
+    position: absolute;
+    top: 240px;
+    left:12%;
+    transform: translateX(-50%);
+    width: 300px;
+}
+
+.BBB {
+    position: absolute;
+    top: 680px;
+    left:12%;
+    transform: translateX(-50%);
+    width: 300px;
+}
+
+.you {
+    position: relative; 
+    top: 130px;         
+    left: 5px;        
+    margin: 0 auto;    
+    width: 560px;       
+    height: 315px;     
+}
+
+.BBBB {
+    position: absolute;
+    top: 253px;
+    right: 16%;
+    transform: translateX(-50%);
+    width: 400px;
+}
+
+.BBBBB {
+    position: absolute;
+    top: 285px;
+    left: 82%;
+    transform: translateX(-50%);
+    width: 300px;
+}
+
+
+
+header{
+    background-color: rgba(255,255,255,0.8);
+}
+
+.BBBBBBB{
+    position: absolute;
+    top: 400px;
+    left: 67%;
+    transform: translateX(-50%);
+    width: 400px;
+}
+
+.BBBBBBBBB {
+    position: absolute;
+    top: 600px;
+    left: 54%;
+    transform: translateX(-50%);
+    width: 350px;
+}
+
+
+
